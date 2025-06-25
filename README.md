@@ -1,6 +1,11 @@
 <div align="center">
   <h2 align="center">WeSplit</h2>
   <p align="center">
+	  <div align="left">
+	
+   ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/WeSplit)
+</div>
+
 This project is a simple app called WeSplit, designed to make splitting a restaurant
 bill easy. You input the total amount, how many people are sharing, and the desired
 tip percentage. The app then automatically calculates the total bill amount (including
